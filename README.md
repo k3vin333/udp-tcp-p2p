@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Distributed P2P File Sharing Network
 
 A distributed peer-to-peer file sharing system implemented in Python that leverages both UDP and TCP protocols for efficient and reliable file transfer. This project demonstrates a hybrid architecture combining centralized coordination with decentralized file transfer.
@@ -117,3 +118,4 @@ The system consists of three main components:
 3. Bandwidth optimization
 4. Parallel transfer support
 5. NAT traversal capabilities
+=======
